@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: sentiment-twitter
+Version: 0.1
+Summary: Sentiment Classification using Twitter tweets
+Home-page: http://www.jaist.ac.jp/~s1010205/sentiment_twitter
+Author: KATHURIA Pulkit
+Author-email: pulkit@jaist.ac.jp
+License: LICENSE.txt
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
