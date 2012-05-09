@@ -1,7 +1,0 @@
-README
-setup.py
-src/sentiment_twitter.egg-info/PKG-INFO
-src/sentiment_twitter.egg-info/SOURCES.txt
-src/sentiment_twitter.egg-info/dependency_links.txt
-src/sentiment_twitter.egg-info/requires.txt
-src/sentiment_twitter.egg-info/top_level.txt
