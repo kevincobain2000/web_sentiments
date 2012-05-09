@@ -1,5 +1,0 @@
-sentiment_classifier >= 0.5
-nltk
-argparse
-numpy
-python_twitter

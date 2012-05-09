@@ -1,3 +1,4 @@
 _twitter.api
 build/
 dist/
+*egg*
